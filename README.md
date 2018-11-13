@@ -1,24 +1,31 @@
-# README
+# THPuKnowDaWay  - fr
+### Production : https://fromageprojectstrasbourg.herokuapp.com/
+## 📰 The content
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![alt text](https://png.icons8.com/color/160/ugandan-knuckles.png)
 
-Things you may want to cover:
+**No dependencies needed for the today's exercise **
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## 💎 Gems
 
-* Database creation
+in this project we use : 
 
-* Database initialization
+```sh
+source "https://rubygems.org"
+rails '5.2.1'
+```
 
-* How to run the test suite
+you can find all the gems in the Gemfile in this directory : 
 
-* Services (job queues, cache servers, search engines, etc.)
+THPuKnowDaWay/Gemfile
 
-* Deployment instructions
+## :european_post_office: The Strasbourg Crew 💪
+Done alone @OwwllMan
 
-* ...
+<hr>
+
+***It's an exercise from the TheHackingProject bootcamp.***
+
+***> www.thehackingproject.org***
